@@ -1,4 +1,6 @@
 # Ocaml_Interpreter
 
-Il progetto consiste nella progettazione e realizzazione di alcuni moduli software.
-Si consideri un'estensione del linguaggio didattico funzionale (Codice_Ocaml.txt) che permetta di manipolare dizionari. Un dizionario è una collezione di valori identificati univocamente da una chiave. Pertanto, un dizionario è una collezione di coppie chiave-valore dove la chiave è unica.
+The project consists in the design and implementation of some software modules.
+Consider an extension of the functional didactic language (Code_Ocaml.txt) that allows you to manipulate dictionaries. A dictionary is a collection of values uniquely identified by a key. Therefore, a dictionary is a collection of key-value pairs where the key is unique.
+
+There are two implementation of the Interpreter: one with dynamic type checking, and one with static type checking
